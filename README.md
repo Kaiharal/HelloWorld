@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: Hello World 
 
-**Project Description**:
+**Project Description**: Basic Test
 
-**Project Goals**:
+**Project Goals**: doing a basic test of setting up an environment
 
 ## Instructions for Build and Use
 
